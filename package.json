@@ -2,7 +2,7 @@
   "name": "github-page",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://mizzkii.github.io",
+  "homepage": "https://mizzkii.github.io/test-github-page",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.16.4",
